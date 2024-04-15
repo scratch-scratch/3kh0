@@ -1,4 +1,4 @@
-survices:
+services:
   - type: web
     name: yuki-math-blog
     env: python
